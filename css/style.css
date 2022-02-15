@@ -17,3 +17,12 @@ body {
     font-size: 2rem;
 }
 
+.badge {
+    display: inline-block;
+    background-color: yellow;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
